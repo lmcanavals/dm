@@ -1,0 +1,1001 @@
+checking_status	disc_duration	credit_history	purpose	disc_amount	savings_status	employment	personal_status	other_parties	property_magnitude	age	other_payment_plans	housing	existing_credits	job	num_dependents	own_telephone	foreign_worker	class
+<0	lo_1_year	critical/other existing 	radio/tv	1000_2000	no known savings	>=7	male single	none	real estate	>=55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	education	up_2000	<100	4<=X<7	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	male single	guarantor	life insurance	30<=X<55	none	for free	one	skilled	two	none	yes	good
+<0	1_2_years	delayed previously	new car	up_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	two	skilled	two	none	yes	bad
+no checking	up_2_years	existing paid	education	up_2000	no known savings	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	unskilled resident	two	yes	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	500<=X<1000	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	used car	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	up_2000	>=1000	4<=X<7	male div/sep	none	real estate	>=55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	critical/other existing 	new car	up_2000	<100	unemployed	male mar/wid	none	car	<30	none	own	two	high qualif/self emp/mgm	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	new car	1000_2000	<100	<1	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	bad
+<0	up_2_years	existing paid	business	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	critical/other existing 	new car	1000_2000	<100	>=7	male single	none	car	>=55	none	own	two	unskilled resident	one	none	yes	bad
+<0	1_2_years	existing paid	new car	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	100<=X<500	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	unskilled resident	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	up_2_years	no credits/all paid	business	up_2000	no known savings	<1	male single	none	car	<30	bank	own	three	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	used car	up_2000	<100	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	existing paid	radio/tv	up_2000	500<=X<1000	>=7	male single	none	car	30<=X<55	none	own	one	skilled	two	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	three	skilled	one	yes	yes	good
+<0	lo_1_year	existing paid	radio/tv	up_2000	500<=X<1000	1<=X<4	male single	none	real estate	30<=X<55	none	rent	one	skilled	two	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	<1	male single	none	real estate	30<=X<55	none	rent	two	unskilled resident	two	none	no	good
+0<=X<200	lo_1_year	critical/other existing 	used car	1000_2000	100<=X<500	<1	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	up_2000	no known savings	1<=X<4	male mar/wid	none	car	<30	none	own	two	skilled	one	none	no	good
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	bank	own	one	unskilled resident	one	yes	yes	good
+no checking	lo_1_year	no credits/all paid	radio/tv	lo_1000	<100	>=7	male mar/wid	none	car	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+>=200	lo_1_year	all paid	radio/tv	lo_1000	>=1000	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	rent	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	guarantor	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	up_2_years	delayed previously	business	up_2000	<100	>=7	male single	none	no known property	>=55	none	own	two	skilled	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	business	1000_2000	>=1000	<1	male mar/wid	none	real estate	30<=X<55	bank	own	one	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	car	<30	stores	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	new car	up_2000	100<=X<500	1<=X<4	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	business	1000_2000	no known savings	>=7	male single	none	no known property	>=55	none	rent	one	unskilled resident	one	none	yes	good
+>=200	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	critical/other existing 	radio/tv	up_2000	<100	<1	male single	none	life insurance	<30	none	own	two	unskilled resident	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	education	up_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	bank	for free	one	skilled	one	yes	yes	good
+>=200	1_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	co applicant	real estate	30<=X<55	stores	own	one	skilled	one	none	yes	bad
+>=200	lo_1_year	existing paid	domestic appliance	1000_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	male single	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	radio/tv	up_2000	500<=X<1000	>=7	male single	none	car	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	500<=X<1000	1<=X<4	male div/sep	none	car	<30	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	repairs	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	yes	yes	good
+<0	up_2_years	critical/other existing 	used car	up_2000	100<=X<500	4<=X<7	male mar/wid	none	car	<30	none	rent	two	skilled	one	none	yes	good
+<0	up_2_years	critical/other existing 	used car	up_2000	<100	>=7	female div/dep/mar	none	no known property	>=55	stores	for free	two	unskilled resident	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	<100	<1	female div/dep/mar	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	none	yes	good
+no checking	up_2_years	existing paid	radio/tv	up_2000	500<=X<1000	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	used car	1000_2000	500<=X<1000	unemployed	female div/dep/mar	none	life insurance	<30	none	rent	one	unemp/unskilled non res	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+no checking	lo_1_year	existing paid	radio/tv	up_2000	100<=X<500	1<=X<4	female div/dep/mar	co applicant	real estate	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	furniture/equipment	up_2000	no known savings	<1	male single	none	life insurance	<30	bank	own	one	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	delayed previously	used car	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	no known savings	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	delayed previously	new car	up_2000	<100	>=7	male single	none	no known property	>=55	bank	for free	two	skilled	one	yes	yes	bad
+no checking	lo_1_year	all paid	new car	lo_1000	no known savings	1<=X<4	male single	guarantor	real estate	<30	stores	own	one	unskilled resident	two	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	no known savings	unemployed	male single	none	no known property	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	stores	own	two	skilled	one	none	yes	good
+>=200	1_2_years	existing paid	new car	1000_2000	<100	>=7	female div/dep/mar	none	car	<30	none	own	one	high qualif/self emp/mgm	one	none	yes	good
+<0	up_2_years	critical/other existing 	furniture/equipment	up_2000	<100	<1	female div/dep/mar	co applicant	no known property	<30	none	rent	two	unskilled resident	one	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	business	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	<30	bank	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	radio/tv	1000_2000	no known savings	>=7	male single	guarantor	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	up_2_years	no credits/all paid	business	1000_2000	<100	>=7	male single	none	no known property	>=55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	1_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	yes	yes	good
+no checking	up_2_years	existing paid	repairs	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	four	skilled	two	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	car	<30	bank	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	new car	1000_2000	>=1000	1<=X<4	male mar/wid	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	education	1000_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	stores	for free	one	skilled	one	yes	yes	bad
+no checking	up_2_years	existing paid	radio/tv	up_2000	no known savings	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	used car	up_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	bank	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	rent	two	unskilled resident	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	other	1000_2000	<100	>=7	male single	none	no known property	30<=X<55	bank	for free	two	high qualif/self emp/mgm	two	yes	yes	good
+0<=X<200	up_2_years	critical/other existing 	business	up_2000	<100	4<=X<7	female div/dep/mar	none	real estate	30<=X<55	bank	own	two	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	education	1000_2000	no known savings	>=7	male single	none	no known property	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+<0	lo_1_year	critical/other existing 	used car	1000_2000	<100	>=7	male single	none	no known property	>=55	none	for free	two	high qualif/self emp/mgm	one	none	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	<100	<1	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	delayed previously	radio/tv	up_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	no credits/all paid	used car	up_2000	no known savings	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+0<=X<200	up_2_years	existing paid	furniture/equipment	up_2000	<100	<1	male mar/wid	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	no known savings	<1	female div/dep/mar	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	bad
+no checking	1_2_years	existing paid	radio/tv	1000_2000	500<=X<1000	>=7	male single	none	life insurance	30<=X<55	stores	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	business	1000_2000	100<=X<500	1<=X<4	female div/dep/mar	none	life insurance	<30	none	rent	one	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	other	1000_2000	<100	>=7	female div/dep/mar	guarantor	real estate	>=55	none	own	one	unskilled resident	one	yes	yes	good
+<0	lo_1_year	existing paid	radio/tv	up_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	business	1000_2000	<100	1<=X<4	female div/dep/mar	guarantor	real estate	<30	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	education	up_2000	100<=X<500	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	two	yes	yes	bad
+<0	1_2_years	existing paid	new car	up_2000	100<=X<500	4<=X<7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	two	yes	yes	good
+<0	lo_1_year	no credits/all paid	repairs	1000_2000	<100	4<=X<7	male single	none	real estate	<30	none	own	two	skilled	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	<100	>=7	male single	none	real estate	>=55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	used car	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	no known savings	>=7	female div/dep/mar	none	life insurance	30<=X<55	bank	own	one	unskilled resident	two	none	yes	bad
+>=200	1_2_years	critical/other existing 	furniture/equipment	up_2000	no known savings	>=7	male single	co applicant	no known property	<30	none	rent	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	new car	1000_2000	>=1000	>=7	male single	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	<100	<1	male single	none	no known property	>=55	none	rent	one	skilled	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	education	up_2000	no known savings	4<=X<7	female div/dep/mar	none	car	>=55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	business	up_2000	100<=X<500	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	critical/other existing 	radio/tv	up_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	used car	up_2000	no known savings	4<=X<7	male single	none	life insurance	30<=X<55	bank	rent	two	high qualif/self emp/mgm	two	yes	yes	good
+no checking	1_2_years	existing paid	new car	1000_2000	100<=X<500	>=7	male mar/wid	none	real estate	30<=X<55	none	rent	one	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	<100	4<=X<7	male single	none	car	<30	none	rent	one	skilled	one	none	yes	good
+no checking	lo_1_year	delayed previously	radio/tv	lo_1000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	rent	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	used car	up_2000	no known savings	<1	male mar/wid	none	car	<30	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	other	up_2000	<100	1<=X<4	male single	co applicant	car	30<=X<55	none	own	two	high qualif/self emp/mgm	two	yes	yes	bad
+no checking	1_2_years	all paid	new car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	bank	own	two	high qualif/self emp/mgm	two	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	new car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	no known savings	<1	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	no	good
+0<=X<200	1_2_years	existing paid	business	1000_2000	500<=X<1000	>=7	male mar/wid	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	delayed previously	business	1000_2000	100<=X<500	>=7	male div/sep	none	car	30<=X<55	bank	own	two	skilled	two	none	yes	good
+>=200	1_2_years	existing paid	education	lo_1000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	new car	up_2000	<100	4<=X<7	male single	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+no checking	up_2_years	critical/other existing 	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	stores	own	two	skilled	one	yes	yes	bad
+<0	lo_1_year	existing paid	radio/tv	1000_2000	500<=X<1000	>=7	male mar/wid	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	no known savings	>=7	male single	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	no known savings	4<=X<7	female div/dep/mar	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+<0	lo_1_year	critical/other existing 	furniture/equipment	up_2000	no known savings	<1	female div/dep/mar	co applicant	real estate	<30	none	rent	two	skilled	one	none	no	good
+<0	up_2_years	critical/other existing 	furniture/equipment	up_2000	500<=X<1000	1<=X<4	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	critical/other existing 	new car	up_2000	500<=X<1000	4<=X<7	male div/sep	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	two	skilled	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	<100	>=7	female div/dep/mar	none	car	30<=X<55	none	rent	two	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+>=200	lo_1_year	critical/other existing 	new car	lo_1000	<100	>=7	male single	none	no known property	>=55	none	for free	two	skilled	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	furniture/equipment	1000_2000	no known savings	<1	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	none	yes	bad
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	male mar/wid	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	repairs	lo_1000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	critical/other existing 	used car	1000_2000	<100	unemployed	male single	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	female div/dep/mar	co applicant	real estate	<30	none	own	two	skilled	one	none	yes	bad
+0<=X<200	up_2_years	existing paid	new car	up_2000	no known savings	4<=X<7	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+<0	up_2_years	delayed previously	education	up_2000	<100	1<=X<4	male single	none	life insurance	<30	stores	own	one	skilled	one	yes	yes	bad
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	<100	<1	male single	none	life insurance	<30	bank	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	bank	for free	two	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	radio/tv	up_2000	100<=X<500	4<=X<7	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	no known savings	>=7	female div/dep/mar	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	up_2_years	delayed previously	used car	up_2000	>=1000	1<=X<4	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	500<=X<1000	1<=X<4	male single	none	real estate	>=55	none	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	1_2_years	critical/other existing 	radio/tv	up_2000	no known savings	4<=X<7	male single	guarantor	real estate	30<=X<55	bank	own	three	skilled	one	yes	yes	good
+>=200	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	rent	one	unskilled resident	one	yes	yes	good
+>=200	lo_1_year	existing paid	new car	lo_1000	>=1000	<1	male mar/wid	none	real estate	<30	none	own	one	unemp/unskilled non res	one	none	no	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	no known property	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	high qualif/self emp/mgm	one	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	all paid	business	up_2000	100<=X<500	4<=X<7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	lo_1000	<100	>=7	female div/dep/mar	none	no known property	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	lo_1000	100<=X<500	4<=X<7	female div/dep/mar	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	up_2_years	critical/other existing 	furniture/equipment	up_2000	<100	1<=X<4	male single	guarantor	life insurance	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	>=1000	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	100<=X<500	>=7	male single	none	no known property	30<=X<55	bank	for free	one	skilled	two	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	no	good
+>=200	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	used car	up_2000	>=1000	>=7	female div/dep/mar	none	no known property	<30	none	rent	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	business	up_2000	100<=X<500	4<=X<7	male single	none	car	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	bad
+<0	lo_1_year	critical/other existing 	repairs	1000_2000	100<=X<500	>=7	male single	guarantor	real estate	30<=X<55	none	own	two	skilled	two	none	no	good
+<0	lo_1_year	all paid	retraining	lo_1000	<100	>=7	male mar/wid	none	car	30<=X<55	bank	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	existing paid	new car	up_2000	100<=X<500	4<=X<7	male single	none	car	30<=X<55	bank	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	no known savings	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	100<=X<500	>=7	male single	none	real estate	30<=X<55	none	own	one	skilled	two	yes	yes	good
+no checking	1_2_years	critical/other existing 	new car	1000_2000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	domestic appliance	1000_2000	500<=X<1000	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	new car	up_2000	<100	unemployed	male single	none	no known property	>=55	bank	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	up_2_years	existing paid	new car	lo_1000	500<=X<1000	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	up_2000	500<=X<1000	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	furniture/equipment	1000_2000	<100	unemployed	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	furniture/equipment	1000_2000	>=1000	<1	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	business	1000_2000	<100	>=7	male div/sep	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	bad
+<0	1_2_years	no credits/all paid	new car	lo_1000	<100	>=7	male single	none	car	30<=X<55	none	rent	two	skilled	two	none	yes	bad
+no checking	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	furniture/equipment	up_2000	<100	unemployed	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	guarantor	real estate	30<=X<55	none	own	one	skilled	one	none	no	good
+<0	1_2_years	delayed previously	education	up_2000	<100	<1	male single	none	life insurance	<30	none	own	two	skilled	one	none	yes	bad
+no checking	up_2_years	all paid	used car	up_2000	no known savings	unemployed	female div/dep/mar	none	real estate	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+<0	lo_1_year	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male div/sep	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	radio/tv	lo_1000	500<=X<1000	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	rent	two	high qualif/self emp/mgm	two	yes	yes	good
+<0	1_2_years	critical/other existing 	new car	lo_1000	<100	>=7	male single	none	real estate	>=55	none	own	two	skilled	one	none	yes	good
+no checking	up_2_years	delayed previously	business	up_2000	<100	<1	male div/sep	none	car	<30	none	own	two	skilled	one	none	yes	bad
+0<=X<200	up_2_years	delayed previously	business	up_2000	<100	1<=X<4	male div/sep	none	real estate	30<=X<55	stores	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+<0	1_2_years	all paid	new car	1000_2000	no known savings	1<=X<4	male single	none	life insurance	30<=X<55	none	own	two	unskilled resident	two	none	yes	bad
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	>=1000	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	new car	lo_1000	<100	>=7	male single	none	car	30<=X<55	bank	own	one	skilled	two	yes	yes	bad
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	all paid	used car	up_2000	<100	>=7	female div/dep/mar	none	no known property	>=55	bank	for free	one	high qualif/self emp/mgm	two	yes	yes	bad
+0<=X<200	1_2_years	critical/other existing 	new car	1000_2000	<100	unemployed	male single	none	car	>=55	none	for free	three	unemp/unskilled non res	one	yes	yes	good
+<0	lo_1_year	existing paid	radio/tv	lo_1000	100<=X<500	4<=X<7	male mar/wid	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	no credits/all paid	furniture/equipment	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	bank	own	two	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	business	up_2000	>=1000	1<=X<4	male single	none	life insurance	30<=X<55	none	own	three	high qualif/self emp/mgm	one	yes	yes	bad
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	100<=X<500	4<=X<7	male single	none	no known property	30<=X<55	none	for free	one	unskilled resident	two	none	yes	bad
+0<=X<200	up_2_years	existing paid	business	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	two	yes	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	up_2000	<100	4<=X<7	male mar/wid	none	real estate	<30	none	rent	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	100<=X<500	1<=X<4	male single	guarantor	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	critical/other existing 	education	1000_2000	<100	>=7	female div/dep/mar	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	two	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	lo_1000	100<=X<500	<1	female div/dep/mar	none	car	<30	bank	rent	four	skilled	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	used car	up_2000	no known savings	>=7	male single	none	no known property	30<=X<55	bank	for free	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	furniture/equipment	up_2000	<100	>=7	male div/sep	none	no known property	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	education	lo_1000	500<=X<1000	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	lo_1_year	existing paid	new car	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	good
+no checking	up_2_years	delayed previously	business	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	retraining	lo_1000	<100	4<=X<7	male mar/wid	none	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+<0	up_2_years	critical/other existing 	used car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	three	high qualif/self emp/mgm	two	yes	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	three	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	critical/other existing 	domestic appliance	1000_2000	<100	4<=X<7	male single	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	business	up_2000	<100	1<=X<4	male mar/wid	none	car	<30	stores	own	one	unskilled resident	one	none	yes	good
+no checking	lo_1_year	existing paid	used car	1000_2000	>=1000	4<=X<7	male single	none	life insurance	>=55	none	own	one	skilled	one	none	no	good
+no checking	lo_1_year	critical/other existing 	radio/tv	up_2000	no known savings	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	skilled	two	none	yes	good
+no checking	up_2_years	existing paid	radio/tv	up_2000	no known savings	>=7	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unskilled resident	one	yes	yes	good
+<0	up_2_years	no credits/all paid	business	up_2000	<100	unemployed	male single	none	life insurance	30<=X<55	stores	own	two	skilled	one	yes	yes	bad
+>=200	up_2_years	delayed previously	business	1000_2000	<100	>=7	male single	none	real estate	>=55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	critical/other existing 	retraining	lo_1000	no known savings	4<=X<7	female div/dep/mar	none	life insurance	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+<0	1_2_years	no credits/all paid	business	up_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	bank	own	one	skilled	one	yes	yes	good
+>=200	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	real estate	<30	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male div/sep	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+no checking	lo_1_year	existing paid	new car	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	>=55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	<100	<1	male mar/wid	guarantor	real estate	<30	bank	own	one	unskilled resident	one	none	yes	good
+<0	lo_1_year	existing paid	education	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	life insurance	<30	bank	rent	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	male single	none	real estate	30<=X<55	bank	own	two	skilled	one	none	yes	good
+no checking	1_2_years	delayed previously	business	up_2000	no known savings	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	skilled	two	yes	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	up_2_years	no credits/all paid	repairs	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	>=1000	4<=X<7	male single	co applicant	no known property	<30	bank	own	two	skilled	one	yes	yes	bad
+<0	lo_1_year	existing paid	furniture/equipment	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	<100	4<=X<7	male single	none	car	<30	none	own	one	skilled	one	none	yes	bad
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	<1	male single	none	no known property	<30	bank	for free	one	skilled	one	none	yes	good
+>=200	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	new car	up_2000	500<=X<1000	>=7	male single	none	no known property	30<=X<55	none	for free	one	unskilled resident	one	none	yes	good
+no checking	lo_1_year	existing paid	radio/tv	up_2000	100<=X<500	4<=X<7	male single	none	no known property	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	lo_1000	<100	1<=X<4	male mar/wid	guarantor	real estate	<30	none	own	one	unskilled resident	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	4<=X<7	male single	none	real estate	30<=X<55	none	own	three	unskilled resident	two	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	unemployed	male single	none	car	30<=X<55	stores	own	one	high qualif/self emp/mgm	two	none	yes	bad
+0<=X<200	lo_1_year	existing paid	new car	up_2000	no known savings	unemployed	male single	none	life insurance	<30	none	own	one	unemp/unskilled non res	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	business	up_2000	100<=X<500	>=7	male div/sep	none	car	>=55	bank	rent	two	unskilled resident	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	<100	>=7	male single	guarantor	life insurance	30<=X<55	none	own	one	skilled	two	none	yes	good
+<0	1_2_years	existing paid	new car	lo_1000	no known savings	>=7	female div/dep/mar	none	car	<30	bank	own	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	none	own	one	skilled	two	none	yes	good
+<0	up_2_years	no credits/all paid	used car	up_2000	<100	>=7	male single	none	no known property	<30	none	for free	two	skilled	two	none	yes	bad
+no checking	lo_1_year	critical/other existing 	business	1000_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	all paid	retraining	up_2000	500<=X<1000	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+no checking	1_2_years	existing paid	business	1000_2000	<100	4<=X<7	male single	none	real estate	<30	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	<100	>=7	male single	none	real estate	30<=X<55	none	own	three	skilled	one	none	yes	good
+no checking	lo_1_year	no credits/all paid	new car	1000_2000	100<=X<500	1<=X<4	male single	none	no known property	30<=X<55	bank	rent	one	skilled	one	none	no	good
+>=200	1_2_years	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	lo_1000	<100	unemployed	female div/dep/mar	co applicant	real estate	<30	none	rent	one	skilled	one	none	yes	bad
+<0	lo_1_year	critical/other existing 	new car	lo_1000	>=1000	4<=X<7	female div/dep/mar	none	real estate	30<=X<55	none	own	two	unskilled resident	one	yes	yes	good
+>=200	lo_1_year	existing paid	furniture/equipment	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	existing paid	new car	up_2000	<100	1<=X<4	female div/dep/mar	guarantor	no known property	<30	bank	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	delayed previously	furniture/equipment	up_2000	100<=X<500	1<=X<4	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	up_2000	no known savings	4<=X<7	male single	none	car	<30	none	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	delayed previously	radio/tv	up_2000	no known savings	1<=X<4	male single	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+<0	lo_1_year	all paid	radio/tv	up_2000	<100	1<=X<4	male div/sep	none	no known property	<30	none	for free	one	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	used car	up_2000	100<=X<500	<1	female div/dep/mar	none	car	<30	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	100<=X<500	unemployed	female div/dep/mar	none	real estate	>=55	none	own	three	unskilled resident	one	none	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	>=7	female div/dep/mar	none	car	>=55	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	critical/other existing 	new car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	three	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	education	up_2000	<100	>=7	female div/dep/mar	none	no known property	>=55	bank	for free	three	unskilled resident	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	no	good
+0<=X<200	1_2_years	existing paid	radio/tv	lo_1000	<100	>=7	male single	none	car	30<=X<55	none	own	one	skilled	two	none	yes	bad
+no checking	up_2_years	critical/other existing 	business	up_2000	no known savings	>=7	male single	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	<1	female div/dep/mar	none	car	30<=X<55	stores	own	one	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	new car	up_2000	<100	>=7	male div/sep	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	no	bad
+no checking	1_2_years	existing paid	radio/tv	lo_1000	no known savings	>=7	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	no known savings	4<=X<7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	no	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	500<=X<1000	4<=X<7	female div/dep/mar	none	car	30<=X<55	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	all paid	new car	up_2000	no known savings	unemployed	male single	co applicant	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	<100	4<=X<7	male single	none	real estate	<30	none	own	two	skilled	one	none	yes	bad
+<0	up_2_years	existing paid	repairs	up_2000	<100	<1	male div/sep	none	no known property	30<=X<55	none	own	one	unskilled resident	one	yes	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	two	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	no known savings	>=7	male div/sep	none	life insurance	30<=X<55	none	own	one	unskilled resident	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	radio/tv	1000_2000	100<=X<500	1<=X<4	male single	none	car	<30	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	used car	up_2000	>=1000	>=7	male single	none	no known property	<30	none	rent	two	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+>=200	1_2_years	all paid	radio/tv	1000_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	bank	own	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	furniture/equipment	1000_2000	no known savings	>=7	male single	none	life insurance	>=55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	new car	up_2000	100<=X<500	<1	male div/sep	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	up_2_years	existing paid	new car	up_2000	<100	<1	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unskilled resident	one	yes	yes	good
+<0	up_2_years	existing paid	used car	up_2000	<100	4<=X<7	male single	none	life insurance	<30	none	own	one	skilled	two	none	yes	good
+0<=X<200	up_2_years	delayed previously	other	up_2000	100<=X<500	unemployed	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	guarantor	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	1_2_years	delayed previously	radio/tv	1000_2000	<100	<1	male mar/wid	none	real estate	30<=X<55	stores	own	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	business	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	<30	none	own	one	skilled	one	yes	no	good
+0<=X<200	up_2_years	existing paid	used car	up_2000	<100	<1	male mar/wid	none	car	<30	none	rent	one	high qualif/self emp/mgm	one	yes	yes	bad
+<0	1_2_years	critical/other existing 	used car	up_2000	<100	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	two	high qualif/self emp/mgm	two	yes	yes	good
+>=200	up_2_years	critical/other existing 	used car	up_2000	<100	>=7	male single	none	no known property	>=55	none	for free	one	skilled	one	none	yes	good
+no checking	up_2_years	critical/other existing 	business	up_2000	no known savings	>=7	male div/sep	none	car	30<=X<55	bank	own	two	high qualif/self emp/mgm	two	none	yes	good
+0<=X<200	up_2_years	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	car	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	lo_1_year	existing paid	used car	up_2000	no known savings	<1	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	new car	1000_2000	no known savings	>=7	male single	co applicant	life insurance	30<=X<55	none	own	one	unskilled resident	one	none	no	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	up_2000	>=1000	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	new car	lo_1000	<100	unemployed	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unemp/unskilled non res	one	yes	yes	good
+0<=X<200	up_2_years	no credits/all paid	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	bad
+>=200	1_2_years	critical/other existing 	new car	1000_2000	no known savings	4<=X<7	male single	none	real estate	30<=X<55	bank	own	two	unskilled resident	two	none	yes	bad
+<0	lo_1_year	critical/other existing 	new car	1000_2000	<100	4<=X<7	male single	co applicant	life insurance	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	up_2_years	critical/other existing 	new car	up_2000	500<=X<1000	1<=X<4	male single	none	no known property	30<=X<55	bank	for free	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	>=1000	1<=X<4	male div/sep	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	used car	up_2000	no known savings	4<=X<7	female div/dep/mar	none	life insurance	<30	stores	rent	one	unskilled resident	one	none	yes	good
+<0	lo_1_year	existing paid	radio/tv	lo_1000	100<=X<500	<1	male mar/wid	none	no known property	30<=X<55	none	own	one	unskilled resident	one	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	new car	lo_1000	<100	1<=X<4	male mar/wid	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	existing paid	other	up_2000	no known savings	unemployed	male single	none	no known property	30<=X<55	bank	for free	one	unemp/unskilled non res	one	yes	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	100<=X<500	1<=X<4	male single	none	car	<30	stores	own	one	skilled	one	none	yes	good
+>=200	1_2_years	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	new car	lo_1000	<100	4<=X<7	male mar/wid	none	car	<30	bank	own	one	unskilled resident	one	none	yes	bad
+>=200	lo_1_year	existing paid	new car	1000_2000	no known savings	<1	male single	none	real estate	<30	none	own	one	unskilled resident	two	none	no	good
+<0	up_2_years	all paid	furniture/equipment	up_2000	<100	>=7	male single	none	car	30<=X<55	bank	own	one	skilled	one	none	yes	bad
+<0	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	1<=X<4	male single	guarantor	life insurance	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+0<=X<200	1_2_years	existing paid	furniture/equipment	up_2000	no known savings	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	unskilled resident	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	education	lo_1000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	1_2_years	delayed previously	furniture/equipment	up_2000	<100	>=7	female div/dep/mar	none	life insurance	<30	none	own	two	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	critical/other existing 	new car	up_2000	<100	unemployed	male mar/wid	none	car	<30	none	own	two	high qualif/self emp/mgm	one	none	yes	bad
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	<1	male div/sep	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+<0	1_2_years	existing paid	used car	up_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	>=1000	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	new car	1000_2000	<100	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	4<=X<7	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	one	none	no	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	rent	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	new car	1000_2000	>=1000	4<=X<7	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	two	yes	yes	good
+>=200	up_2_years	existing paid	radio/tv	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	>=7	male single	none	car	<30	none	own	one	skilled	two	none	yes	good
+<0	1_2_years	critical/other existing 	used car	up_2000	<100	unemployed	male single	none	no known property	>=55	none	for free	two	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	education	1000_2000	100<=X<500	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	bad
+0<=X<200	up_2_years	existing paid	new car	up_2000	100<=X<500	<1	female div/dep/mar	none	life insurance	<30	none	own	one	high qualif/self emp/mgm	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	used car	up_2000	100<=X<500	1<=X<4	female div/dep/mar	none	car	<30	bank	rent	two	unskilled resident	one	none	yes	bad
+<0	1_2_years	no credits/all paid	furniture/equipment	up_2000	<100	>=7	male single	none	no known property	<30	bank	rent	two	skilled	two	none	yes	bad
+<0	lo_1_year	critical/other existing 	furniture/equipment	up_2000	<100	1<=X<4	male div/sep	none	real estate	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	guarantor	life insurance	<30	none	own	one	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	domestic appliance	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	bad
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male div/sep	none	car	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	education	up_2000	<100	<1	female div/dep/mar	none	no known property	<30	none	for free	two	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	female div/dep/mar	none	car	<30	none	rent	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	500<=X<1000	<1	male mar/wid	none	real estate	<30	none	rent	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	business	up_2000	<100	>=7	male single	co applicant	real estate	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	yes	yes	good
+>=200	lo_1_year	existing paid	new car	up_2000	<100	<1	male single	guarantor	life insurance	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	radio/tv	lo_1000	<100	<1	male single	guarantor	real estate	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	500<=X<1000	unemployed	female div/dep/mar	none	no known property	<30	none	rent	one	unemp/unskilled non res	one	none	yes	good
+no checking	lo_1_year	delayed previously	business	1000_2000	100<=X<500	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	critical/other existing 	education	1000_2000	>=1000	>=7	male single	none	no known property	30<=X<55	none	for free	two	skilled	two	none	yes	bad
+no checking	lo_1_year	existing paid	domestic appliance	1000_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	no	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	no known savings	unemployed	male single	none	no known property	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	no credits/all paid	radio/tv	up_2000	<100	1<=X<4	male single	none	life insurance	<30	none	rent	two	skilled	one	yes	yes	bad
+no checking	lo_1_year	existing paid	education	lo_1000	500<=X<1000	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	new car	1000_2000	<100	<1	male single	none	real estate	<30	stores	own	one	unskilled resident	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	radio/tv	up_2000	no known savings	>=7	male single	co applicant	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	up_2_years	delayed previously	radio/tv	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	male mar/wid	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	education	1000_2000	no known savings	1<=X<4	male single	none	no known property	>=55	none	for free	one	skilled	one	none	yes	good
+>=200	lo_1_year	existing paid	radio/tv	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	none	yes	good
+>=200	lo_1_year	delayed previously	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	stores	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male mar/wid	none	life insurance	<30	none	rent	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	unemployed	male single	none	car	<30	none	own	one	unemp/unskilled non res	one	none	yes	bad
+no checking	lo_1_year	existing paid	business	1000_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	used car	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	one	skilled	two	none	yes	bad
+0<=X<200	1_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	female div/dep/mar	none	real estate	30<=X<55	none	rent	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	new car	up_2000	no known savings	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	rent	two	skilled	one	none	yes	good
+no checking	up_2_years	critical/other existing 	new car	up_2000	no known savings	>=7	male single	none	no known property	>=55	bank	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	all paid	other	up_2000	100<=X<500	>=7	female div/dep/mar	none	no known property	>=55	bank	for free	two	high qualif/self emp/mgm	one	yes	yes	bad
+<0	up_2_years	all paid	business	up_2000	<100	4<=X<7	female div/dep/mar	guarantor	car	30<=X<55	none	rent	one	skilled	one	none	yes	bad
+no checking	1_2_years	delayed previously	radio/tv	up_2000	<100	unemployed	male mar/wid	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	delayed previously	radio/tv	lo_1000	no known savings	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	new car	up_2000	<100	>=7	male single	none	no known property	>=55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	new car	lo_1000	100<=X<500	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	used car	up_2000	<100	unemployed	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	existing paid	new car	1000_2000	no known savings	4<=X<7	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	good
+>=200	lo_1_year	existing paid	new car	1000_2000	<100	<1	male single	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	delayed previously	business	up_2000	100<=X<500	1<=X<4	male single	none	life insurance	<30	none	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	no known savings	<1	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	unemployed	male single	none	life insurance	30<=X<55	stores	own	two	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	business	up_2000	500<=X<1000	1<=X<4	male single	none	car	<30	bank	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	business	1000_2000	<100	4<=X<7	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	new car	1000_2000	<100	1<=X<4	male mar/wid	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	lo_1000	>=1000	<1	female div/dep/mar	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	new car	up_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	bank	for free	one	high qualif/self emp/mgm	two	yes	yes	good
+<0	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	4<=X<7	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	up_2000	<100	unemployed	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	none	yes	good
+0<=X<200	up_2_years	delayed previously	education	up_2000	100<=X<500	4<=X<7	male single	none	no known property	30<=X<55	none	rent	one	skilled	one	yes	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	up_2000	<100	unemployed	female div/dep/mar	none	no known property	>=55	none	for free	one	high qualif/self emp/mgm	one	none	yes	good
+<0	up_2_years	critical/other existing 	furniture/equipment	up_2000	<100	1<=X<4	male mar/wid	none	life insurance	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	new car	1000_2000	<100	>=7	male div/sep	none	real estate	30<=X<55	none	rent	two	skilled	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	>=1000	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	<1	male mar/wid	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	business	1000_2000	no known savings	1<=X<4	male mar/wid	none	real estate	<30	bank	own	two	skilled	one	none	yes	good
+no checking	1_2_years	delayed previously	business	up_2000	<100	<1	male single	none	car	<30	bank	own	two	skilled	one	yes	yes	bad
+no checking	1_2_years	delayed previously	new car	lo_1000	<100	1<=X<4	male single	none	car	<30	none	own	two	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	new car	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	one	skilled	two	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	<100	<1	male mar/wid	none	life insurance	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	<1	male mar/wid	none	real estate	<30	none	own	one	skilled	one	none	no	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	500<=X<1000	>=7	male div/sep	none	car	<30	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+>=200	lo_1_year	critical/other existing 	new car	lo_1000	500<=X<1000	4<=X<7	male mar/wid	none	real estate	<30	none	own	three	skilled	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	radio/tv	1000_2000	<100	>=7	female div/dep/mar	none	car	<30	none	own	one	skilled	one	yes	yes	good
+no checking	up_2_years	critical/other existing 	used car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	business	up_2000	<100	unemployed	male single	none	car	30<=X<55	stores	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	existing paid	new car	1000_2000	500<=X<1000	1<=X<4	male single	none	no known property	30<=X<55	none	rent	one	unskilled resident	two	none	no	good
+<0	1_2_years	existing paid	new car	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	used car	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	two	yes	yes	good
+<0	lo_1_year	existing paid	new car	up_2000	<100	<1	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	yes	bad
+<0	1_2_years	delayed previously	education	up_2000	no known savings	1<=X<4	female div/dep/mar	none	car	<30	none	rent	two	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	500<=X<1000	4<=X<7	female div/dep/mar	none	car	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	none	yes	good
+0<=X<200	1_2_years	existing paid	new car	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	new car	up_2000	>=1000	4<=X<7	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	used car	up_2000	no known savings	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	critical/other existing 	new car	lo_1000	<100	4<=X<7	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+no checking	1_2_years	delayed previously	furniture/equipment	1000_2000	100<=X<500	4<=X<7	male single	none	real estate	30<=X<55	none	own	two	high qualif/self emp/mgm	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	up_2000	no known savings	>=7	female div/dep/mar	none	life insurance	<30	bank	own	one	skilled	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	used car	up_2000	<100	1<=X<4	male mar/wid	none	car	<30	none	rent	one	skilled	one	yes	yes	good
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	<100	>=7	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	>=1000	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	>=7	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	critical/other existing 	repairs	1000_2000	<100	unemployed	female div/dep/mar	none	no known property	>=55	none	for free	three	unemp/unskilled non res	two	none	yes	bad
+no checking	lo_1_year	existing paid	business	up_2000	<100	4<=X<7	male single	none	real estate	>=55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	existing paid	other	up_2000	<100	1<=X<4	male single	co applicant	car	<30	bank	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+<0	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	<100	unemployed	male single	none	no known property	30<=X<55	none	for free	three	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	repairs	up_2000	<100	1<=X<4	male div/sep	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	no known savings	1<=X<4	male mar/wid	none	real estate	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	lo_1_year	existing paid	repairs	lo_1000	500<=X<1000	4<=X<7	male mar/wid	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	new car	1000_2000	>=1000	>=7	female div/dep/mar	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	up_2_years	critical/other existing 	repairs	up_2000	<100	unemployed	male single	co applicant	car	>=55	none	own	two	unemp/unskilled non res	one	none	yes	good
+>=200	lo_1_year	all paid	business	lo_1000	<100	<1	female div/dep/mar	none	real estate	<30	none	own	one	unemp/unskilled non res	one	none	yes	bad
+no checking	lo_1_year	existing paid	new car	1000_2000	<100	>=7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	female div/dep/mar	co applicant	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	other	up_2000	<100	1<=X<4	male single	none	car	<30	bank	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	education	lo_1000	<100	>=7	male single	none	car	30<=X<55	bank	own	one	unskilled resident	two	none	yes	bad
+0<=X<200	up_2_years	critical/other existing 	furniture/equipment	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	education	1000_2000	no known savings	>=7	female div/dep/mar	none	life insurance	30<=X<55	none	rent	two	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	new car	1000_2000	<100	<1	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	guarantor	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+>=200	lo_1_year	existing paid	furniture/equipment	1000_2000	no known savings	>=7	female div/dep/mar	none	real estate	>=55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	repairs	1000_2000	>=1000	1<=X<4	male mar/wid	none	life insurance	>=55	stores	own	two	skilled	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	used car	up_2000	no known savings	1<=X<4	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	no credits/all paid	furniture/equipment	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	existing paid	new car	up_2000	<100	4<=X<7	male single	co applicant	life insurance	30<=X<55	none	own	one	skilled	one	yes	yes	bad
+no checking	1_2_years	existing paid	used car	up_2000	<100	<1	female div/dep/mar	none	no known property	<30	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	rent	two	skilled	two	none	yes	good
+<0	lo_1_year	existing paid	used car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	yes	yes	bad
+<0	lo_1_year	existing paid	domestic appliance	lo_1000	<100	<1	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	<100	<1	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	guarantor	life insurance	30<=X<55	none	own	one	skilled	two	none	yes	good
+<0	1_2_years	existing paid	new car	1000_2000	<100	<1	male single	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	real estate	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	retraining	lo_1000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	business	1000_2000	<100	4<=X<7	male single	none	car	30<=X<55	stores	own	two	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	used car	up_2000	<100	1<=X<4	male single	guarantor	no known property	>=55	bank	own	one	skilled	two	yes	yes	good
+<0	1_2_years	delayed previously	radio/tv	1000_2000	<100	<1	female div/dep/mar	none	car	<30	none	rent	one	unskilled resident	one	yes	yes	bad
+no checking	up_2_years	delayed previously	radio/tv	up_2000	no known savings	>=7	male single	none	car	30<=X<55	bank	own	two	skilled	two	none	yes	good
+no checking	up_2_years	delayed previously	business	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	two	skilled	one	yes	yes	good
+no checking	1_2_years	delayed previously	used car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	two	unskilled resident	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	100<=X<500	<1	male mar/wid	none	car	<30	none	rent	one	skilled	one	yes	yes	bad
+<0	lo_1_year	existing paid	education	lo_1000	<100	<1	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+<0	lo_1_year	existing paid	new car	lo_1000	<100	1<=X<4	male single	none	car	<30	none	own	one	unskilled resident	one	none	yes	bad
+no checking	lo_1_year	existing paid	retraining	1000_2000	no known savings	unemployed	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	two	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	male mar/wid	none	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+<0	1_2_years	no credits/all paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	up_2_years	existing paid	used car	up_2000	500<=X<1000	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+>=200	1_2_years	existing paid	radio/tv	up_2000	<100	4<=X<7	male single	none	car	<30	bank	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	business	1000_2000	100<=X<500	4<=X<7	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+<0	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+0<=X<200	lo_1_year	critical/other existing 	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	existing paid	new car	1000_2000	<100	<1	male single	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	>=1000	>=7	female div/dep/mar	none	life insurance	>=55	none	rent	two	skilled	one	yes	yes	good
+no checking	1_2_years	delayed previously	furniture/equipment	lo_1000	>=1000	4<=X<7	female div/dep/mar	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	500<=X<1000	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	delayed previously	new car	1000_2000	<100	unemployed	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	<100	>=7	female div/dep/mar	co applicant	no known property	>=55	none	for free	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	new car	1000_2000	100<=X<500	1<=X<4	male single	none	real estate	30<=X<55	none	rent	one	unskilled resident	one	none	no	good
+no checking	lo_1_year	existing paid	new car	up_2000	<100	1<=X<4	male single	guarantor	life insurance	<30	none	rent	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	>=7	male single	none	no known property	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	<100	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	two	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	100<=X<500	1<=X<4	female div/dep/mar	none	life insurance	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	rent	two	unskilled resident	two	none	no	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	no known savings	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	none	yes	bad
+0<=X<200	up_2_years	existing paid	furniture/equipment	up_2000	100<=X<500	<1	male single	co applicant	no known property	<30	none	rent	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	1000_2000	<100	>=7	male mar/wid	guarantor	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+>=200	lo_1_year	critical/other existing 	new car	1000_2000	100<=X<500	>=7	male div/sep	none	car	<30	none	own	two	skilled	two	yes	yes	good
+<0	1_2_years	existing paid	new car	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+<0	up_2_years	existing paid	used car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	two	none	yes	good
+>=200	lo_1_year	existing paid	radio/tv	1000_2000	100<=X<500	>=7	male div/sep	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	radio/tv	1000_2000	100<=X<500	<1	male single	none	no known property	30<=X<55	bank	own	two	skilled	two	none	yes	bad
+<0	1_2_years	existing paid	new car	1000_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	new car	1000_2000	no known savings	1<=X<4	male single	guarantor	life insurance	<30	none	own	one	unskilled resident	one	none	yes	bad
+>=200	1_2_years	critical/other existing 	used car	up_2000	500<=X<1000	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	1_2_years	all paid	new car	up_2000	100<=X<500	unemployed	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	two	yes	yes	bad
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	male mar/wid	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	used car	up_2000	100<=X<500	>=7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	existing paid	new car	lo_1000	<100	4<=X<7	male single	none	real estate	<30	none	own	one	skilled	one	none	yes	bad
+no checking	up_2_years	existing paid	used car	up_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+>=200	1_2_years	existing paid	business	up_2000	<100	4<=X<7	male single	none	life insurance	<30	none	rent	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	delayed previously	radio/tv	lo_1000	<100	1<=X<4	male mar/wid	co applicant	real estate	<30	none	rent	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	no known savings	<1	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	lo_1000	<100	4<=X<7	female div/dep/mar	none	life insurance	30<=X<55	none	own	two	skilled	one	none	no	good
+<0	lo_1_year	critical/other existing 	new car	1000_2000	<100	<1	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	no	good
+no checking	up_2_years	critical/other existing 	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	two	skilled	one	yes	yes	bad
+<0	lo_1_year	existing paid	new car	1000_2000	100<=X<500	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	no known savings	>=7	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	repairs	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	bad
+<0	up_2_years	no credits/all paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	two	skilled	two	none	yes	bad
+no checking	1_2_years	existing paid	used car	up_2000	100<=X<500	4<=X<7	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	guarantor	real estate	<30	none	own	one	unskilled resident	two	none	yes	good
+0<=X<200	up_2_years	existing paid	used car	up_2000	<100	<1	male single	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	education	1000_2000	100<=X<500	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	4<=X<7	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male div/sep	none	car	30<=X<55	none	rent	one	skilled	one	none	yes	bad
+<0	lo_1_year	existing paid	new car	lo_1000	<100	<1	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	yes	yes	good
+0<=X<200	up_2_years	existing paid	education	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	two	none	yes	good
+0<=X<200	1_2_years	existing paid	new car	up_2000	100<=X<500	1<=X<4	female div/dep/mar	none	car	<30	none	rent	two	skilled	one	yes	yes	bad
+no checking	lo_1_year	delayed previously	used car	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	30<=X<55	none	rent	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	100<=X<500	4<=X<7	male mar/wid	none	life insurance	<30	none	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	no known savings	<1	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+>=200	1_2_years	critical/other existing 	education	up_2000	<100	<1	male div/sep	none	car	30<=X<55	none	rent	one	skilled	one	none	yes	bad
+<0	lo_1_year	existing paid	new car	1000_2000	no known savings	unemployed	female div/dep/mar	none	life insurance	>=55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	>=7	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	up_2_years	existing paid	new car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	bank	for free	one	high qualif/self emp/mgm	one	none	yes	bad
+>=200	1_2_years	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	stores	own	one	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	<1	male mar/wid	none	real estate	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	1_2_years	delayed previously	new car	up_2000	<100	>=7	male single	none	no known property	>=55	none	for free	two	skilled	one	yes	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+>=200	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	yes	bad
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	<100	>=7	male single	none	real estate	>=55	none	own	two	unskilled resident	one	none	yes	good
+<0	1_2_years	delayed previously	new car	1000_2000	<100	unemployed	male single	none	real estate	30<=X<55	none	for free	two	skilled	two	none	yes	bad
+no checking	1_2_years	critical/other existing 	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	4<=X<7	male single	none	car	30<=X<55	bank	own	one	skilled	two	none	yes	good
+<0	lo_1_year	all paid	radio/tv	lo_1000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	bank	own	one	unskilled resident	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	used car	up_2000	no known savings	4<=X<7	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	repairs	lo_1000	no known savings	4<=X<7	female div/dep/mar	none	real estate	<30	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	all paid	radio/tv	1000_2000	500<=X<1000	>=7	male single	none	life insurance	30<=X<55	bank	own	one	unskilled resident	two	none	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	<100	4<=X<7	male mar/wid	guarantor	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	bad
+0<=X<200	lo_1_year	critical/other existing 	new car	1000_2000	100<=X<500	<1	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	education	1000_2000	<100	4<=X<7	female div/dep/mar	none	life insurance	>=55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	<1	male single	none	car	<30	stores	own	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	no credits/all paid	new car	up_2000	100<=X<500	<1	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	bad
+no checking	1_2_years	no credits/all paid	new car	up_2000	no known savings	1<=X<4	female div/dep/mar	none	life insurance	<30	bank	own	two	skilled	one	yes	yes	bad
+<0	1_2_years	all paid	furniture/equipment	up_2000	<100	4<=X<7	male single	none	car	<30	bank	own	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	<1	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	one	none	yes	bad
+<0	1_2_years	existing paid	used car	up_2000	no known savings	>=7	male single	none	no known property	30<=X<55	bank	for free	one	skilled	two	yes	yes	good
+<0	1_2_years	all paid	radio/tv	1000_2000	<100	4<=X<7	male single	guarantor	car	<30	bank	rent	one	unskilled resident	one	none	yes	bad
+>=200	lo_1_year	delayed previously	radio/tv	lo_1000	<100	<1	female div/dep/mar	none	life insurance	<30	bank	own	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	new car	up_2000	no known savings	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	yes	yes	bad
+0<=X<200	1_2_years	delayed previously	business	up_2000	no known savings	1<=X<4	male single	none	life insurance	30<=X<55	bank	own	two	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	radio/tv	1000_2000	100<=X<500	4<=X<7	female div/dep/mar	none	life insurance	<30	none	rent	two	skilled	one	yes	yes	good
+<0	lo_1_year	existing paid	new car	1000_2000	<100	4<=X<7	male div/sep	none	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	>=1000	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+<0	up_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	bad
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	rent	one	unskilled resident	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	<100	4<=X<7	male single	co applicant	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	no known savings	unemployed	female div/dep/mar	none	life insurance	<30	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	existing paid	business	lo_1000	<100	1<=X<4	female div/dep/mar	none	life insurance	<30	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	>=7	male single	none	car	<30	none	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	4<=X<7	female div/dep/mar	co applicant	car	<30	bank	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	<100	4<=X<7	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	education	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	up_2_years	critical/other existing 	new car	up_2000	<100	<1	male div/sep	none	car	<30	none	own	two	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	retraining	lo_1000	<100	<1	male mar/wid	none	car	<30	none	own	two	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	new car	1000_2000	<100	>=7	male single	guarantor	real estate	30<=X<55	bank	own	two	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	critical/other existing 	new car	up_2000	<100	<1	male single	none	real estate	30<=X<55	bank	own	two	unskilled resident	two	none	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	repairs	up_2000	<100	<1	male single	none	no known property	30<=X<55	none	rent	one	unskilled resident	one	none	yes	bad
+no checking	lo_1_year	existing paid	new car	up_2000	no known savings	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	bank	rent	one	skilled	one	none	yes	bad
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	rent	two	skilled	two	none	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	guarantor	life insurance	<30	none	own	one	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	domestic appliance	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	30<=X<55	none	own	one	unskilled resident	one	yes	yes	bad
+<0	lo_1_year	critical/other existing 	furniture/equipment	up_2000	<100	>=7	male single	none	life insurance	>=55	none	own	two	skilled	one	none	yes	bad
+<0	lo_1_year	critical/other existing 	radio/tv	lo_1000	<100	4<=X<7	female div/dep/mar	none	real estate	>=55	none	own	four	unskilled resident	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	new car	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	rent	two	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	business	1000_2000	>=1000	>=7	female div/dep/mar	none	real estate	30<=X<55	bank	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	existing paid	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	<30	none	rent	one	unskilled resident	one	yes	yes	bad
+<0	1_2_years	all paid	other	1000_2000	no known savings	>=7	male single	none	car	30<=X<55	stores	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+0<=X<200	lo_1_year	all paid	new car	lo_1000	100<=X<500	<1	female div/dep/mar	none	life insurance	30<=X<55	stores	own	one	unskilled resident	one	none	yes	bad
+<0	1_2_years	existing paid	new car	1000_2000	<100	4<=X<7	female div/dep/mar	none	car	<30	none	rent	two	skilled	one	none	yes	bad
+0<=X<200	1_2_years	no credits/all paid	business	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	three	unskilled resident	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	new car	up_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	bank	own	two	skilled	one	none	yes	bad
+no checking	1_2_years	delayed previously	business	up_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	guarantor	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	all paid	education	1000_2000	<100	4<=X<7	female div/dep/mar	none	no known property	30<=X<55	bank	for free	one	unskilled resident	one	none	yes	bad
+no checking	up_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+>=200	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	all paid	furniture/equipment	up_2000	500<=X<1000	1<=X<4	male single	none	real estate	<30	stores	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	business	up_2000	<100	1<=X<4	male single	none	real estate	>=55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	100<=X<500	1<=X<4	female div/dep/mar	co applicant	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	radio/tv	up_2000	<100	<1	male single	none	real estate	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	used car	1000_2000	no known savings	>=7	male single	none	no known property	30<=X<55	bank	for free	one	skilled	two	none	yes	good
+<0	lo_1_year	existing paid	domestic appliance	lo_1000	100<=X<500	unemployed	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+>=200	lo_1_year	existing paid	new car	1000_2000	100<=X<500	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	unskilled resident	two	none	yes	bad
+<0	1_2_years	existing paid	radio/tv	up_2000	>=1000	<1	female div/dep/mar	none	car	<30	bank	own	one	skilled	one	none	yes	good
+<0	1_2_years	all paid	used car	up_2000	<100	1<=X<4	female div/dep/mar	guarantor	car	<30	bank	rent	one	skilled	one	none	no	good
+no checking	1_2_years	delayed previously	furniture/equipment	1000_2000	<100	4<=X<7	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	bad
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	no known savings	1<=X<4	male single	none	car	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	delayed previously	radio/tv	up_2000	no known savings	1<=X<4	male single	none	no known property	<30	none	for free	one	high qualif/self emp/mgm	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	rent	three	skilled	two	none	yes	good
+0<=X<200	up_2_years	existing paid	furniture/equipment	up_2000	100<=X<500	1<=X<4	female div/dep/mar	co applicant	car	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	new car	lo_1000	<100	1<=X<4	male div/sep	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	business	up_2000	<100	4<=X<7	male single	none	life insurance	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	new car	1000_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	bank	own	two	skilled	one	none	yes	bad
+no checking	up_2_years	existing paid	business	up_2000	no known savings	1<=X<4	male div/sep	none	real estate	30<=X<55	bank	own	one	skilled	one	none	yes	bad
+<0	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	no known property	>=55	none	for free	two	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	radio/tv	1000_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+>=200	lo_1_year	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	all paid	new car	1000_2000	100<=X<500	4<=X<7	male single	none	no known property	<30	none	own	one	skilled	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	furniture/equipment	up_2000	500<=X<1000	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	education	up_2000	no known savings	>=7	male single	none	real estate	>=55	none	own	one	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	all paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	car	30<=X<55	bank	own	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	radio/tv	1000_2000	no known savings	<1	male single	none	life insurance	<30	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	co applicant	car	<30	none	rent	two	skilled	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	new car	1000_2000	<100	<1	female div/dep/mar	none	car	<30	none	own	one	unskilled resident	one	yes	yes	bad
+no checking	lo_1_year	existing paid	education	1000_2000	<100	>=7	male single	none	life insurance	30<=X<55	bank	own	three	skilled	two	yes	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	500<=X<1000	4<=X<7	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	delayed previously	radio/tv	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	two	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	1000_2000	<100	<1	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	two	none	yes	good
+<0	up_2_years	delayed previously	radio/tv	up_2000	<100	4<=X<7	male single	none	life insurance	<30	bank	own	two	skilled	two	yes	yes	bad
+<0	1_2_years	existing paid	education	lo_1000	<100	unemployed	female div/dep/mar	none	real estate	<30	none	own	one	unemp/unskilled non res	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	repairs	1000_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	education	up_2000	100<=X<500	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	4<=X<7	male mar/wid	guarantor	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	4<=X<7	male mar/wid	none	life insurance	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+no checking	up_2_years	delayed previously	business	up_2000	no known savings	<1	male single	none	car	<30	none	rent	two	skilled	one	yes	yes	bad
+<0	up_2_years	no credits/all paid	furniture/equipment	up_2000	<100	1<=X<4	male div/sep	guarantor	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	new car	1000_2000	500<=X<1000	1<=X<4	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+>=200	1_2_years	existing paid	new car	lo_1000	<100	4<=X<7	male single	none	no known property	30<=X<55	bank	for free	one	skilled	two	none	yes	bad
+<0	lo_1_year	existing paid	education	lo_1000	<100	1<=X<4	male single	none	car	30<=X<55	none	rent	one	unskilled resident	two	none	yes	bad
+<0	up_2_years	existing paid	education	up_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	unskilled resident	one	none	yes	bad
+<0	1_2_years	existing paid	new car	up_2000	<100	>=7	male single	co applicant	real estate	30<=X<55	none	own	one	skilled	one	none	yes	bad
+0<=X<200	up_2_years	delayed previously	new car	up_2000	100<=X<500	>=7	male single	none	car	30<=X<55	none	own	four	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	new car	up_2000	<100	unemployed	male single	none	no known property	<30	none	for free	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	new car	lo_1000	<100	>=7	male single	none	car	30<=X<55	bank	own	one	unskilled resident	two	none	yes	bad
+no checking	up_2_years	existing paid	radio/tv	up_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	stores	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	own	one	skilled	one	yes	yes	good
+>=200	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	<30	none	rent	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	new car	lo_1000	no known savings	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	delayed previously	furniture/equipment	1000_2000	<100	unemployed	male single	none	life insurance	30<=X<55	stores	own	two	high qualif/self emp/mgm	one	yes	yes	good
+>=200	lo_1_year	critical/other existing 	education	1000_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	other	up_2000	<100	unemployed	male single	co applicant	no known property	<30	bank	own	two	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	all paid	furniture/equipment	up_2000	>=1000	1<=X<4	male single	none	car	30<=X<55	stores	own	one	skilled	two	yes	yes	good
+no checking	up_2_years	all paid	business	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	stores	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	>=7	male single	co applicant	life insurance	30<=X<55	none	rent	two	skilled	one	yes	yes	bad
+>=200	up_2_years	critical/other existing 	radio/tv	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	business	up_2000	100<=X<500	1<=X<4	male single	none	life insurance	<30	none	own	two	unskilled resident	one	yes	yes	good
+no checking	up_2_years	existing paid	business	up_2000	100<=X<500	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	up_2_years	existing paid	new car	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	up_2000	500<=X<1000	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	delayed previously	business	up_2000	500<=X<1000	<1	male single	none	real estate	30<=X<55	bank	own	one	unskilled resident	two	none	yes	bad
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	<100	4<=X<7	female div/dep/mar	none	car	<30	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	100<=X<500	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	none	yes	bad
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	>=7	male single	none	real estate	>=55	bank	rent	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	education	1000_2000	<100	<1	female div/dep/mar	none	no known property	>=55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	radio/tv	up_2000	no known savings	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	yes	yes	good
+no checking	1_2_years	delayed previously	radio/tv	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	30<=X<55	bank	own	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	<100	<1	male mar/wid	none	no known property	30<=X<55	none	for free	three	skilled	one	yes	yes	good
+0<=X<200	up_2_years	delayed previously	business	up_2000	100<=X<500	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	unskilled resident	two	yes	yes	good
+no checking	up_2_years	existing paid	new car	up_2000	no known savings	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	two	yes	yes	good
+>=200	lo_1_year	critical/other existing 	radio/tv	1000_2000	no known savings	4<=X<7	male single	none	life insurance	<30	none	own	two	skilled	one	yes	yes	good
+0<=X<200	up_2_years	delayed previously	new car	up_2000	100<=X<500	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	radio/tv	up_2000	100<=X<500	>=7	male single	co applicant	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	lo_1_year	existing paid	new car	up_2000	>=1000	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	skilled	two	none	yes	good
+<0	1_2_years	critical/other existing 	furniture/equipment	lo_1000	<100	1<=X<4	male div/sep	none	life insurance	<30	none	own	two	skilled	one	none	yes	good
+0<=X<200	1_2_years	existing paid	repairs	up_2000	100<=X<500	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	100<=X<500	<1	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	no known savings	<1	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	used car	1000_2000	500<=X<1000	1<=X<4	male single	none	life insurance	30<=X<55	none	rent	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	4<=X<7	male single	guarantor	real estate	<30	none	own	two	skilled	one	none	no	good
+no checking	lo_1_year	critical/other existing 	new car	lo_1000	<100	unemployed	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	unemp/unskilled non res	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	male single	none	car	<30	none	own	two	skilled	one	none	yes	good
+>=200	1_2_years	existing paid	education	1000_2000	<100	>=7	male single	none	car	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	500<=X<1000	1<=X<4	female div/dep/mar	none	car	<30	none	rent	one	unskilled resident	one	none	yes	bad
+<0	up_2_years	critical/other existing 	used car	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	yes	yes	bad
+>=200	1_2_years	existing paid	radio/tv	1000_2000	100<=X<500	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	delayed previously	business	up_2000	100<=X<500	>=7	male single	none	life insurance	30<=X<55	stores	own	two	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	business	up_2000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	two	yes	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	500<=X<1000	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	existing paid	new car	up_2000	100<=X<500	4<=X<7	male single	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	no credits/all paid	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	two	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	>=7	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	lo_1000	500<=X<1000	>=7	male single	none	life insurance	30<=X<55	bank	own	two	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	all paid	education	1000_2000	<100	>=7	female div/dep/mar	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	used car	up_2000	no known savings	>=7	male single	none	real estate	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	male single	none	real estate	<30	none	own	two	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	existing paid	new car	up_2000	<100	4<=X<7	male single	none	no known property	<30	none	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	used car	up_2000	no known savings	>=7	male single	none	car	>=55	none	own	two	skilled	one	none	yes	good
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+>=200	1_2_years	critical/other existing 	radio/tv	up_2000	no known savings	1<=X<4	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	1_2_years	no credits/all paid	used car	up_2000	100<=X<500	>=7	male mar/wid	none	car	30<=X<55	bank	own	two	skilled	one	yes	yes	good
+>=200	lo_1_year	no credits/all paid	radio/tv	1000_2000	<100	<1	male single	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+0<=X<200	lo_1_year	all paid	education	lo_1000	>=1000	<1	female div/dep/mar	none	life insurance	<30	bank	rent	one	skilled	two	none	yes	bad
+<0	lo_1_year	existing paid	new car	1000_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	500<=X<1000	1<=X<4	female div/dep/mar	none	real estate	>=55	none	own	one	unskilled resident	one	none	yes	good
+no checking	up_2_years	existing paid	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	lo_1_year	critical/other existing 	new car	lo_1000	>=1000	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	bank	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	500<=X<1000	1<=X<4	male mar/wid	none	life insurance	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	bank	rent	two	skilled	one	none	yes	bad
+0<=X<200	up_2_years	all paid	business	up_2000	<100	>=7	female div/dep/mar	none	no known property	>=55	none	rent	one	skilled	one	none	yes	bad
+>=200	1_2_years	critical/other existing 	business	1000_2000	>=1000	1<=X<4	male div/sep	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	1_2_years	delayed previously	radio/tv	up_2000	<100	<1	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	real estate	<30	none	rent	one	unskilled resident	two	none	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	<100	4<=X<7	female div/dep/mar	guarantor	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	>=1000	1<=X<4	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	up_2000	<100	4<=X<7	female div/dep/mar	none	real estate	30<=X<55	none	own	one	skilled	two	none	yes	good
+0<=X<200	up_2_years	all paid	domestic appliance	up_2000	no known savings	<1	female div/dep/mar	none	no known property	<30	bank	own	one	unemp/unskilled non res	one	none	yes	good
+0<=X<200	1_2_years	existing paid	used car	up_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	none	rent	two	high qualif/self emp/mgm	one	none	yes	bad
+<0	1_2_years	existing paid	new car	up_2000	100<=X<500	1<=X<4	male single	none	car	30<=X<55	none	own	one	unskilled resident	two	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	up_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	none	own	two	high qualif/self emp/mgm	two	yes	yes	good
+0<=X<200	up_2_years	no credits/all paid	business	up_2000	100<=X<500	1<=X<4	female div/dep/mar	none	car	<30	none	rent	two	unskilled resident	one	none	yes	bad
+<0	1_2_years	all paid	new car	up_2000	100<=X<500	4<=X<7	male single	none	car	30<=X<55	bank	own	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	all paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	real estate	<30	stores	own	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	all paid	furniture/equipment	up_2000	500<=X<1000	1<=X<4	male single	none	real estate	<30	stores	own	one	skilled	one	yes	yes	good
+<0	up_2_years	critical/other existing 	furniture/equipment	up_2000	no known savings	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	critical/other existing 	business	1000_2000	<100	<1	male single	none	life insurance	<30	bank	own	two	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	new car	up_2000	<100	unemployed	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	new car	1000_2000	<100	<1	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	bad
+no checking	1_2_years	existing paid	used car	up_2000	no known savings	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	>=7	female div/dep/mar	none	life insurance	30<=X<55	bank	own	one	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	new car	lo_1000	<100	<1	female div/dep/mar	none	car	<30	none	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	business	lo_1000	100<=X<500	4<=X<7	female div/dep/mar	none	real estate	<30	none	rent	one	unskilled resident	one	none	yes	good
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	<100	4<=X<7	female div/dep/mar	none	car	<30	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	delayed previously	repairs	1000_2000	>=1000	>=7	male single	none	no known property	>=55	none	for free	two	skilled	two	none	yes	bad
+<0	1_2_years	existing paid	new car	1000_2000	no known savings	4<=X<7	female div/dep/mar	none	no known property	30<=X<55	none	rent	one	skilled	one	none	yes	bad
+>=200	lo_1_year	critical/other existing 	new car	1000_2000	<100	1<=X<4	male single	none	real estate	>=55	none	own	three	unemp/unskilled non res	two	none	no	good
+>=200	1_2_years	critical/other existing 	radio/tv	1000_2000	no known savings	1<=X<4	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	yes	yes	bad
+no checking	1_2_years	existing paid	new car	1000_2000	<100	1<=X<4	male single	guarantor	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	new car	lo_1000	<100	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	new car	up_2000	no known savings	>=7	female div/dep/mar	none	car	>=55	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	rent	two	skilled	one	none	yes	bad
+<0	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male single	none	life insurance	<30	none	own	one	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	new car	up_2000	no known savings	>=7	male single	none	no known property	30<=X<55	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	new car	up_2000	100<=X<500	4<=X<7	male mar/wid	none	life insurance	<30	none	own	two	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	>=7	male mar/wid	guarantor	real estate	30<=X<55	bank	own	two	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	<1	male div/sep	none	life insurance	30<=X<55	none	own	one	unskilled resident	one	none	yes	bad
+no checking	lo_1_year	existing paid	used car	up_2000	no known savings	<1	female div/dep/mar	none	real estate	30<=X<55	none	rent	one	skilled	one	none	yes	good
+0<=X<200	lo_1_year	critical/other existing 	furniture/equipment	up_2000	<100	>=7	male single	none	car	<30	none	rent	three	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	>=7	male single	none	real estate	>=55	none	own	two	unskilled resident	one	yes	yes	good
+<0	1_2_years	existing paid	used car	up_2000	no known savings	>=7	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	none	yes	good
+<0	up_2_years	critical/other existing 	education	up_2000	<100	1<=X<4	female div/dep/mar	none	no known property	<30	none	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	100<=X<500	>=7	male single	none	life insurance	30<=X<55	bank	own	two	skilled	one	none	yes	good
+>=200	lo_1_year	critical/other existing 	new car	1000_2000	500<=X<1000	unemployed	male single	none	no known property	>=55	bank	for free	three	unemp/unskilled non res	one	none	yes	good
+<0	1_2_years	existing paid	new car	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	real estate	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	new car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	4<=X<7	female div/dep/mar	guarantor	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	critical/other existing 	used car	up_2000	>=1000	>=7	male single	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	repairs	up_2000	<100	unemployed	female div/dep/mar	none	car	>=55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	critical/other existing 	radio/tv	up_2000	<100	4<=X<7	male single	guarantor	real estate	<30	none	own	two	skilled	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	new car	1000_2000	>=1000	>=7	male single	none	real estate	>=55	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	no credits/all paid	retraining	1000_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	new car	lo_1000	100<=X<500	<1	female div/dep/mar	none	life insurance	<30	bank	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	used car	up_2000	no known savings	unemployed	male div/sep	none	real estate	>=55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	existing paid	business	1000_2000	>=1000	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	unskilled resident	one	yes	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	500<=X<1000	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+no checking	up_2_years	critical/other existing 	used car	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+0<=X<200	up_2_years	delayed previously	education	up_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	bad
+<0	up_2_years	critical/other existing 	education	up_2000	<100	1<=X<4	male single	none	no known property	<30	bank	own	one	skilled	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	business	1000_2000	<100	>=7	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	two	none	yes	bad
+no checking	1_2_years	existing paid	used car	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	two	yes	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	no known savings	1<=X<4	male mar/wid	none	life insurance	<30	none	own	two	skilled	one	none	yes	good
+>=200	1_2_years	existing paid	furniture/equipment	up_2000	<100	>=7	male div/sep	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	500<=X<1000	>=7	male single	none	no known property	30<=X<55	none	rent	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	up_2000	100<=X<500	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	used car	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	for free	one	skilled	two	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	delayed previously	new car	lo_1000	no known savings	>=7	male mar/wid	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	new car	1000_2000	no known savings	<1	male single	none	real estate	30<=X<55	none	own	one	unemp/unskilled non res	one	none	yes	good
+no checking	1_2_years	critical/other existing 	education	1000_2000	<100	>=7	male single	none	no known property	30<=X<55	none	for free	two	skilled	two	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	>=7	female div/dep/mar	guarantor	real estate	30<=X<55	bank	rent	two	unskilled resident	one	yes	yes	good
+<0	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	>=7	female div/dep/mar	none	life insurance	<30	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	no known savings	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	new car	up_2000	no known savings	unemployed	female div/dep/mar	none	real estate	<30	none	rent	one	unemp/unskilled non res	one	none	yes	good
+<0	up_2_years	existing paid	new car	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	one	skilled	one	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	<100	<1	male mar/wid	none	real estate	<30	none	own	one	unskilled resident	one	none	no	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	no known savings	>=7	male single	none	real estate	>=55	none	own	four	skilled	one	none	yes	good
+0<=X<200	up_2_years	all paid	used car	up_2000	<100	unemployed	male single	none	no known property	>=55	bank	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	no credits/all paid	new car	1000_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	rent	two	unemp/unskilled non res	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	business	lo_1000	<100	<1	male mar/wid	none	real estate	<30	none	own	one	skilled	one	yes	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	<100	4<=X<7	male mar/wid	guarantor	real estate	<30	bank	own	one	unskilled resident	one	none	yes	good
+<0	up_2_years	critical/other existing 	used car	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	two	skilled	one	yes	yes	bad
+<0	up_2_years	existing paid	domestic appliance	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+<0	up_2_years	existing paid	new car	up_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	none	for free	one	skilled	two	none	yes	bad
+0<=X<200	up_2_years	delayed previously	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	none	rent	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	domestic appliance	1000_2000	500<=X<1000	1<=X<4	male div/sep	none	real estate	>=55	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	4<=X<7	female div/dep/mar	none	car	<30	none	rent	two	skilled	one	yes	yes	good
+<0	up_2_years	existing paid	other	up_2000	<100	unemployed	male div/sep	co applicant	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	<30	bank	own	one	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	new car	1000_2000	<100	1<=X<4	male mar/wid	none	real estate	<30	none	own	two	skilled	one	yes	yes	good
+>=200	lo_1_year	existing paid	radio/tv	up_2000	<100	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	bank	own	one	skilled	two	none	yes	bad
+<0	lo_1_year	critical/other existing 	new car	lo_1000	<100	>=7	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	<1	male div/sep	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+<0	1_2_years	critical/other existing 	new car	1000_2000	<100	>=7	male mar/wid	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	1_2_years	critical/other existing 	new car	up_2000	<100	>=7	female div/dep/mar	none	real estate	30<=X<55	bank	rent	three	skilled	one	yes	yes	bad
+no checking	1_2_years	no credits/all paid	business	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	stores	own	two	skilled	two	none	yes	bad
+<0	up_2_years	existing paid	used car	up_2000	no known savings	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	bad
+0<=X<200	up_2_years	delayed previously	business	up_2000	no known savings	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	two	yes	yes	good
+no checking	1_2_years	delayed previously	business	up_2000	500<=X<1000	1<=X<4	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+<0	1_2_years	existing paid	new car	1000_2000	<100	<1	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	yes	yes	bad
+<0	up_2_years	no credits/all paid	business	up_2000	<100	>=7	male single	none	car	<30	none	rent	two	skilled	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	radio/tv	up_2000	no known savings	>=7	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+>=200	1_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	bad
+<0	lo_1_year	no credits/all paid	new car	1000_2000	<100	1<=X<4	male single	none	car	30<=X<55	bank	own	two	skilled	one	none	yes	bad
+no checking	lo_1_year	existing paid	radio/tv	lo_1000	no known savings	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	<1	female div/dep/mar	none	real estate	<30	none	rent	one	unskilled resident	two	none	yes	good
+<0	1_2_years	critical/other existing 	used car	up_2000	<100	>=7	male single	none	life insurance	>=55	none	own	two	skilled	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	up_2000	<100	>=7	male mar/wid	co applicant	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	male single	none	life insurance	<30	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	delayed previously	used car	up_2000	<100	1<=X<4	male single	none	real estate	<30	stores	own	two	unskilled resident	one	none	yes	good
+no checking	1_2_years	existing paid	repairs	1000_2000	<100	<1	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	bad
+no checking	1_2_years	all paid	business	1000_2000	<100	4<=X<7	male single	none	car	30<=X<55	bank	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	bank	own	three	skilled	two	yes	yes	good
+0<=X<200	1_2_years	existing paid	furniture/equipment	up_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	no known savings	1<=X<4	male single	none	car	>=55	none	rent	two	skilled	one	none	yes	bad
+no checking	1_2_years	existing paid	new car	1000_2000	<100	<1	male mar/wid	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	radio/tv	1000_2000	<100	4<=X<7	male single	none	real estate	>=55	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	radio/tv	lo_1000	<100	>=7	male single	none	real estate	>=55	stores	own	one	unskilled resident	one	none	yes	bad
+<0	1_2_years	critical/other existing 	new car	up_2000	<100	1<=X<4	male mar/wid	guarantor	life insurance	30<=X<55	bank	rent	two	skilled	one	none	no	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	no known savings	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	yes	yes	good
+<0	1_2_years	all paid	new car	1000_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	none	for free	two	unskilled resident	two	none	yes	bad
+no checking	up_2_years	delayed previously	new car	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	skilled	two	yes	yes	good
+no checking	1_2_years	existing paid	new car	1000_2000	100<=X<500	<1	male mar/wid	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	retraining	lo_1000	no known savings	4<=X<7	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	1<=X<4	male single	none	no known property	<30	none	for free	one	skilled	one	yes	yes	good
+<0	1_2_years	existing paid	new car	up_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	lo_1_year	existing paid	new car	up_2000	100<=X<500	1<=X<4	male single	guarantor	real estate	<30	none	rent	one	skilled	two	none	no	good
+no checking	1_2_years	critical/other existing 	used car	up_2000	>=1000	1<=X<4	male single	none	real estate	<30	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	delayed previously	business	up_2000	<100	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	yes	yes	bad
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	real estate	30<=X<55	none	own	one	skilled	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	furniture/equipment	up_2000	>=1000	<1	male single	none	real estate	30<=X<55	stores	own	two	unskilled resident	two	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	none	real estate	<30	bank	rent	one	unskilled resident	one	none	yes	bad
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	500<=X<1000	1<=X<4	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	car	<30	stores	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	stores	own	one	skilled	one	none	yes	good
+no checking	up_2_years	existing paid	business	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	lo_1000	<100	>=7	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	good
+no checking	up_2_years	delayed previously	furniture/equipment	up_2000	500<=X<1000	4<=X<7	female div/dep/mar	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+>=200	lo_1_year	critical/other existing 	new car	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	two	skilled	two	none	no	good
+<0	1_2_years	critical/other existing 	business	1000_2000	100<=X<500	4<=X<7	male single	none	real estate	<30	none	own	two	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	domestic appliance	lo_1000	no known savings	<1	female div/dep/mar	none	real estate	<30	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	co applicant	life insurance	<30	none	own	one	unskilled resident	two	none	yes	good
+0<=X<200	lo_1_year	critical/other existing 	new car	1000_2000	>=1000	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	1_2_years	all paid	radio/tv	1000_2000	<100	<1	male single	co applicant	no known property	30<=X<55	bank	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	up_2_years	existing paid	radio/tv	up_2000	<100	>=7	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
+<0	lo_1_year	existing paid	new car	1000_2000	<100	<1	male single	none	no known property	<30	none	for free	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	no known savings	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	<100	4<=X<7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	existing paid	used car	up_2000	no known savings	1<=X<4	male div/sep	none	no known property	30<=X<55	none	for free	one	skilled	one	yes	yes	good
+0<=X<200	up_2_years	critical/other existing 	new car	up_2000	no known savings	>=7	male single	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	unemployed	female div/dep/mar	none	car	>=55	none	own	two	unemp/unskilled non res	one	none	yes	good
+0<=X<200	1_2_years	existing paid	furniture/equipment	up_2000	<100	4<=X<7	male div/sep	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	bad
+<0	lo_1_year	existing paid	education	lo_1000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+0<=X<200	1_2_years	critical/other existing 	business	up_2000	no known savings	4<=X<7	male single	none	no known property	30<=X<55	none	own	two	skilled	two	yes	yes	good
+0<=X<200	up_2_years	existing paid	business	up_2000	<100	1<=X<4	male single	none	car	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	up_2_years	critical/other existing 	new car	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	high qualif/self emp/mgm	one	yes	yes	good
+no checking	up_2_years	all paid	used car	up_2000	no known savings	<1	male single	guarantor	real estate	30<=X<55	bank	rent	two	skilled	two	yes	yes	good
+<0	up_2_years	critical/other existing 	business	up_2000	<100	>=7	male single	none	car	30<=X<55	stores	own	four	high qualif/self emp/mgm	two	yes	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	bank	own	two	unskilled resident	one	none	no	good
+0<=X<200	up_2_years	critical/other existing 	used car	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	1_2_years	critical/other existing 	radio/tv	1000_2000	no known savings	1<=X<4	male single	none	life insurance	<30	none	own	two	skilled	one	yes	yes	good
+no checking	up_2_years	delayed previously	used car	up_2000	no known savings	4<=X<7	male single	none	car	30<=X<55	stores	own	one	high qualif/self emp/mgm	two	yes	yes	good
+<0	1_2_years	existing paid	radio/tv	up_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	furniture/equipment	1000_2000	>=1000	4<=X<7	female div/dep/mar	none	life insurance	30<=X<55	none	own	one	skilled	one	none	no	good
+no checking	1_2_years	existing paid	furniture/equipment	up_2000	no known savings	4<=X<7	female div/dep/mar	none	real estate	30<=X<55	bank	rent	one	unskilled resident	one	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	1<=X<4	male single	co applicant	car	30<=X<55	none	own	one	skilled	one	none	yes	bad
+<0	1_2_years	critical/other existing 	new car	up_2000	<100	>=7	male single	guarantor	life insurance	30<=X<55	bank	rent	one	skilled	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	new car	up_2000	no known savings	<1	male div/sep	none	real estate	30<=X<55	none	own	two	skilled	one	yes	yes	good
+no checking	up_2_years	critical/other existing 	used car	up_2000	no known savings	>=7	male single	none	no known property	30<=X<55	none	for free	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	no known savings	1<=X<4	male mar/wid	none	real estate	30<=X<55	none	rent	one	skilled	one	yes	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	real estate	<30	none	rent	one	high qualif/self emp/mgm	two	yes	yes	good
+<0	1_2_years	existing paid	new car	up_2000	no known savings	4<=X<7	male single	co applicant	real estate	<30	none	own	one	unskilled resident	one	none	no	good
+0<=X<200	up_2_years	existing paid	education	up_2000	no known savings	1<=X<4	male mar/wid	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	delayed previously	used car	up_2000	<100	<1	female div/dep/mar	none	life insurance	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	new car	up_2000	no known savings	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+no checking	up_2_years	delayed previously	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+0<=X<200	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	<1	female div/dep/mar	none	car	<30	bank	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	up_2_years	existing paid	radio/tv	up_2000	no known savings	>=7	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+no checking	lo_1_year	existing paid	business	up_2000	>=1000	>=7	male div/sep	none	real estate	<30	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	all paid	business	up_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	rent	one	skilled	one	yes	yes	bad
+0<=X<200	up_2_years	no credits/all paid	other	up_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	30<=X<55	bank	own	one	high qualif/self emp/mgm	one	yes	no	bad
+no checking	lo_1_year	existing paid	used car	up_2000	100<=X<500	1<=X<4	male single	co applicant	real estate	30<=X<55	none	own	one	skilled	two	none	yes	good
+<0	lo_1_year	existing paid	new car	up_2000	<100	>=7	male single	none	no known property	>=55	bank	own	one	high qualif/self emp/mgm	one	yes	yes	bad
+<0	1_2_years	existing paid	furniture/equipment	up_2000	100<=X<500	unemployed	male div/sep	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+<0	1_2_years	existing paid	furniture/equipment	up_2000	<100	>=7	male single	none	life insurance	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	yes	yes	bad
+no checking	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	1<=X<4	female div/dep/mar	none	no known property	<30	none	own	two	skilled	one	none	yes	good
+no checking	up_2_years	delayed previously	radio/tv	up_2000	500<=X<1000	4<=X<7	male single	none	car	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	lo_1_year	existing paid	radio/tv	1000_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	new car	up_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	none	rent	one	skilled	two	yes	yes	good
+<0	1_2_years	all paid	furniture/equipment	up_2000	<100	<1	male div/sep	none	life insurance	>=55	bank	own	one	skilled	one	yes	yes	bad
+<0	lo_1_year	all paid	new car	lo_1000	<100	<1	male single	none	car	30<=X<55	bank	own	two	skilled	one	yes	yes	bad
+<0	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	none	life insurance	<30	none	rent	one	skilled	one	none	yes	good
+<0	up_2_years	existing paid	used car	up_2000	<100	4<=X<7	male single	none	no known property	30<=X<55	stores	for free	three	skilled	two	yes	yes	bad
+no checking	up_2_years	existing paid	radio/tv	1000_2000	no known savings	>=7	male single	none	car	>=55	none	own	one	skilled	one	yes	yes	good
+<0	lo_1_year	delayed previously	new car	1000_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	1000_2000	<100	<1	male single	co applicant	life insurance	<30	none	own	one	unskilled resident	one	none	no	good
+0<=X<200	lo_1_year	existing paid	radio/tv	1000_2000	<100	<1	female div/dep/mar	none	car	<30	none	own	one	skilled	one	yes	yes	bad
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	lo_1000	500<=X<1000	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	two	yes	yes	good
+<0	lo_1_year	existing paid	radio/tv	1000_2000	<100	1<=X<4	female div/dep/mar	none	car	<30	bank	own	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	delayed previously	radio/tv	1000_2000	100<=X<500	<1	male single	none	no known property	30<=X<55	stores	own	two	high qualif/self emp/mgm	one	none	yes	bad
+>=200	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	female div/dep/mar	none	real estate	<30	none	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	lo_1_year	existing paid	radio/tv	up_2000	<100	<1	male mar/wid	none	car	30<=X<55	none	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	up_2_years	existing paid	education	up_2000	<100	1<=X<4	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	bad
+no checking	1_2_years	critical/other existing 	used car	up_2000	no known savings	1<=X<4	male single	none	life insurance	30<=X<55	none	own	two	high qualif/self emp/mgm	two	yes	yes	good
+no checking	lo_1_year	existing paid	new car	up_2000	no known savings	<1	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	two	yes	yes	good
+no checking	lo_1_year	existing paid	new car	1000_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	one	unskilled resident	two	none	no	good
+no checking	1_2_years	existing paid	furniture/equipment	lo_1000	no known savings	4<=X<7	male single	none	car	30<=X<55	stores	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	critical/other existing 	new car	1000_2000	<100	4<=X<7	male single	none	real estate	30<=X<55	none	own	three	unskilled resident	two	none	yes	good
+<0	1_2_years	existing paid	furniture/equipment	1000_2000	<100	<1	female div/dep/mar	guarantor	life insurance	30<=X<55	none	rent	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	no credits/all paid	new car	up_2000	500<=X<1000	<1	female div/dep/mar	none	car	30<=X<55	none	own	two	skilled	one	none	yes	good
+<0	1_2_years	all paid	furniture/equipment	up_2000	500<=X<1000	<1	male single	none	no known property	30<=X<55	none	for free	one	skilled	two	yes	yes	bad
+no checking	lo_1_year	existing paid	new car	up_2000	no known savings	unemployed	male single	none	no known property	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	1_2_years	existing paid	furniture/equipment	1000_2000	<100	<1	male mar/wid	co applicant	life insurance	30<=X<55	none	own	one	unskilled resident	two	none	yes	bad
+no checking	1_2_years	existing paid	radio/tv	up_2000	100<=X<500	>=7	male single	none	car	30<=X<55	none	own	two	skilled	one	none	yes	bad
+0<=X<200	1_2_years	critical/other existing 	business	up_2000	<100	unemployed	male mar/wid	none	car	30<=X<55	none	own	three	unemp/unskilled non res	two	yes	yes	good
+<0	up_2_years	delayed previously	business	up_2000	<100	4<=X<7	male single	none	car	<30	none	own	two	skilled	one	yes	yes	bad
+0<=X<200	1_2_years	existing paid	used car	up_2000	500<=X<1000	<1	female div/dep/mar	none	car	<30	none	rent	one	skilled	one	none	yes	bad
+no checking	up_2_years	existing paid	furniture/equipment	up_2000	<100	unemployed	female div/dep/mar	none	car	<30	none	own	two	high qualif/self emp/mgm	one	yes	yes	bad
+<0	lo_1_year	existing paid	new car	1000_2000	<100	1<=X<4	female div/dep/mar	guarantor	life insurance	<30	none	own	one	skilled	one	yes	yes	good
+<0	1_2_years	critical/other existing 	radio/tv	1000_2000	>=1000	>=7	female div/dep/mar	none	life insurance	>=55	none	rent	two	high qualif/self emp/mgm	one	yes	yes	good
+>=200	up_2_years	critical/other existing 	radio/tv	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	stores	own	two	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	>=7	male single	none	real estate	30<=X<55	none	own	three	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	new car	up_2000	<100	1<=X<4	male single	none	car	30<=X<55	none	own	one	unskilled resident	one	none	yes	bad
+0<=X<200	1_2_years	existing paid	furniture/equipment	up_2000	100<=X<500	>=7	male single	none	no known property	30<=X<55	none	for free	one	skilled	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	radio/tv	1000_2000	<100	>=7	male mar/wid	none	real estate	30<=X<55	none	rent	two	skilled	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	new car	up_2000	<100	1<=X<4	male div/sep	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	no known savings	1<=X<4	male single	none	no known property	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	up_2000	500<=X<1000	>=7	male single	none	car	30<=X<55	bank	own	two	skilled	one	yes	yes	bad
+0<=X<200	lo_1_year	existing paid	repairs	lo_1000	<100	<1	male mar/wid	none	life insurance	<30	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	up_2_years	existing paid	radio/tv	1000_2000	no known savings	1<=X<4	female div/dep/mar	none	car	<30	none	own	one	skilled	one	none	yes	good
+0<=X<200	up_2_years	critical/other existing 	radio/tv	up_2000	500<=X<1000	1<=X<4	male single	none	life insurance	<30	none	own	two	unskilled resident	one	none	yes	bad
+no checking	1_2_years	existing paid	radio/tv	up_2000	<100	>=7	female div/dep/mar	none	car	30<=X<55	bank	rent	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	up_2_years	existing paid	radio/tv	up_2000	no known savings	4<=X<7	male mar/wid	none	life insurance	<30	none	rent	one	skilled	one	yes	yes	good
+<0	lo_1_year	critical/other existing 	new car	up_2000	<100	1<=X<4	male single	none	real estate	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+0<=X<200	1_2_years	existing paid	repairs	1000_2000	100<=X<500	1<=X<4	male single	guarantor	real estate	<30	none	own	one	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	new car	up_2000	<100	1<=X<4	male single	none	life insurance	30<=X<55	none	own	one	unskilled resident	two	none	yes	good
+<0	1_2_years	all paid	new car	1000_2000	<100	unemployed	female div/dep/mar	co applicant	no known property	<30	none	rent	two	unemp/unskilled non res	one	none	yes	bad
+<0	up_2_years	existing paid	business	up_2000	<100	>=7	male single	co applicant	no known property	30<=X<55	none	rent	one	skilled	one	none	yes	bad
+no checking	up_2_years	critical/other existing 	radio/tv	up_2000	<100	1<=X<4	female div/dep/mar	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+>=200	1_2_years	existing paid	radio/tv	1000_2000	500<=X<1000	1<=X<4	female div/dep/mar	none	car	>=55	none	own	one	unskilled resident	one	none	yes	good
+0<=X<200	lo_1_year	existing paid	radio/tv	lo_1000	<100	1<=X<4	female div/dep/mar	guarantor	real estate	>=55	none	own	one	skilled	one	none	yes	good
+0<=X<200	1_2_years	delayed previously	business	up_2000	no known savings	>=7	male single	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	delayed previously	new car	up_2000	<100	>=7	male single	none	car	30<=X<55	none	own	two	unskilled resident	two	none	yes	bad
+0<=X<200	1_2_years	all paid	new car	1000_2000	100<=X<500	1<=X<4	male mar/wid	none	life insurance	<30	none	rent	one	skilled	one	none	yes	bad
+0<=X<200	up_2_years	critical/other existing 	furniture/equipment	up_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	none	own	one	skilled	one	none	yes	bad
+no checking	up_2_years	existing paid	business	up_2000	<100	unemployed	male single	none	car	30<=X<55	bank	rent	one	high qualif/self emp/mgm	one	yes	yes	bad
+>=200	1_2_years	existing paid	new car	up_2000	100<=X<500	1<=X<4	female div/dep/mar	none	car	<30	bank	own	one	high qualif/self emp/mgm	one	yes	yes	good
+<0	up_2_years	existing paid	used car	up_2000	<100	1<=X<4	male single	none	life insurance	<30	none	own	one	skilled	two	none	yes	bad
+no checking	1_2_years	critical/other existing 	furniture/equipment	up_2000	<100	4<=X<7	male single	none	life insurance	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+<0	1_2_years	critical/other existing 	furniture/equipment	1000_2000	<100	1<=X<4	female div/dep/mar	none	life insurance	<30	none	rent	two	skilled	one	none	yes	good
+>=200	up_2_years	no credits/all paid	business	up_2000	<100	<1	male div/sep	none	life insurance	30<=X<55	none	own	two	skilled	one	none	yes	good
+no checking	1_2_years	existing paid	radio/tv	1000_2000	100<=X<500	unemployed	female div/dep/mar	none	real estate	>=55	none	own	one	skilled	one	none	yes	good
+<0	1_2_years	existing paid	used car	up_2000	<100	unemployed	male single	none	no known property	<30	none	for free	one	high qualif/self emp/mgm	one	yes	yes	good
+0<=X<200	1_2_years	critical/other existing 	radio/tv	1000_2000	<100	>=7	male single	none	life insurance	30<=X<55	none	own	two	unskilled resident	one	none	yes	good
+no checking	lo_1_year	critical/other existing 	education	up_2000	no known savings	<1	male single	none	life insurance	30<=X<55	none	own	two	unskilled resident	two	none	yes	good
+no checking	1_2_years	all paid	radio/tv	1000_2000	100<=X<500	>=7	male single	none	car	30<=X<55	bank	own	one	unskilled resident	two	none	yes	good
+<0	1_2_years	existing paid	radio/tv	1000_2000	no known savings	4<=X<7	male mar/wid	none	car	<30	none	rent	two	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	furniture/equipment	up_2000	<100	unemployed	male single	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	new car	up_2000	no known savings	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	yes	yes	good
+no checking	lo_1_year	existing paid	furniture/equipment	1000_2000	<100	4<=X<7	female div/dep/mar	none	real estate	30<=X<55	none	own	one	unskilled resident	one	none	yes	good
+<0	up_2_years	existing paid	used car	up_2000	<100	1<=X<4	male div/sep	none	life insurance	30<=X<55	none	own	one	high qualif/self emp/mgm	one	yes	yes	good
+no checking	lo_1_year	existing paid	radio/tv	lo_1000	<100	>=7	male single	none	car	30<=X<55	none	own	one	skilled	one	none	yes	good
+<0	up_2_years	existing paid	radio/tv	1000_2000	<100	1<=X<4	male single	none	no known property	<30	none	for free	one	skilled	one	yes	yes	bad
+0<=X<200	up_2_years	critical/other existing 	used car	up_2000	100<=X<500	unemployed	male single	none	car	<30	none	own	one	skilled	one	none	yes	good
